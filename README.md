@@ -17,9 +17,6 @@ The compositor must first be prepared with the editing nodes. You can either dow
 
 *Note: the node setup does not have to exactly match the image, adjustments can be made. For switching between the image and mask view, however, the Keying and Crop nodes have to be kept next to each other, as those get rerouted by the script automatically. It is also mandatory for the script to work to have the following nodes: Movie Clip; Stabilize 2D; Keying; Crop*
 
-&nbsp;
-
-
 ### Effective Keying Clips Panel
 ![Clips Panel UI](https://github.com/HonzaKlicpera/Effective-footage-processing-Blender/blob/master/images/Sheepless_clips_UI.png "Clips panel UI")
 
