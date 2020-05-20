@@ -25,7 +25,7 @@ The compositor must first be prepared with the editing nodes. You can either dow
 This panel allows to define the folder containing all of the clips you want to edit. These clips will be loaded into the interactive list. You can switch between clips using the buttons below the list. The icon next to the clip's name in the list indicates, whether it has been visited, or is currently active.
 
 ### Effective Keying Rendering Panel
-![Rendering Panel UI](https://github.com/HonzaKlicpera/Effective-footage-processing-Blender/blob/master/images/Sheepless_Rendering_UI.png")
+![Rendering Panel UI](https://github.com/HonzaKlicpera/Effective-footage-processing-Blender/blob/master/images/Sheepless_Rendering_UI.png "Rendering Panel UI")
 
 This panel allows to set the following settings:
 * **Render Mask** - Indicates, whether the mask will be also rendered **for the current clip** during the batch rendering process.
