@@ -1,7 +1,5 @@
 # A blender add-on for effective processing of greenscreen footage
-This Blender add-on partly automates the process of editing greenscreen footage. The processed footage then stylized with for EbSynth to be later used in the Unity game engine. It allows to import and render footage in bulk, without the need to switch folders for each clip or render them individually.
-
-This Blender add-on partly automates the process of editing (stabilizing, chroma keying and cropping) live-action greenscreen footage in bulk. It is made specially for synthesizing the processed image using EbSynth and utilizing it in the Unity game engine, but it can be used for basic chroma keying purposes as well.
+This Blender add-on partly automates the process of editing (stabilizing, chroma keying and cropping) live-action greenscreen footage in bulk. It allows to import and render footage in bulk, without the need to switch folders for each clip or render them individually. It is made specially for synthesizing the processed image using EbSynth and utilizing it in the Unity game engine, but it can be used for basic chroma keying purposes as well.
 
 ## Instalation
 1. Download the `Effective_processing_addon.zip` file from the latest release.
