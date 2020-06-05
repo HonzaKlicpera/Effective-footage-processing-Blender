@@ -26,10 +26,10 @@ This panel allows to define the folder containing all of the clips you want to e
 ![Rendering Panel UI](https://github.com/HonzaKlicpera/Effective-footage-processing-Blender/blob/master/images/Sheepless_Rendering_UI.png "Rendering Panel UI")
 
 This panel allows to set the following settings:
-* **Render Mask** - Indicates, whether the mask will be also rendered **for the current clip** during the batch rendering process.
-* **Auto Frame Set** - Indicates, whether the frame range to be rendered **for the current clip** should be automatically set to match the clip's frame count.
-* **Force Render** - Indicates, whether already existing renderings should be overwritten during the batch rendering process.
-* **Auto Backup** - Indicates, whether the blend file should be saved into the output folder during the batch rendering process.
+* **Render Mask** – Indicates, whether the mask will be also rendered **for the current clip** during the batch rendering process.
+* **Auto Frame Set** – Indicates, whether the frame range to be rendered **for the current clip** should be automatically set to match the clip's frame count.
+* **Force Render** – Indicates, whether already existing renderings should be overwritten during the batch rendering process.
+* **Auto Backup** – Indicates, whether the blend file should be saved into the output folder during the batch rendering process.
 
 When done editing all of the clips, the user can select the desired output folder and press the *Render All* button. The batch rendering process will begin and all of the clips will be automatically rendered into the output folder in the following structure:
 
